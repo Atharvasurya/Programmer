@@ -1,0 +1,27 @@
+* {box-sizing: border-box;}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.success{
+float: none;
+}
+
+.container h2{
+    text-align: center;
+    display: block;
+    font-weight: 500;
+    margin-top: 413px;
+    font-size: 65px;
+}
+
+.container p{
+    text-align: center;
+    display: block;
+    font-weight: 500;
+    font-size: 28px;
+}
+
